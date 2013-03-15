@@ -34,7 +34,7 @@ PRODUCT_COPY_FILES += \
     device/samsung/d2vzw/prebuilt/common/etc/apns-conf-vzw.xml:system/etc/apns-conf.xml
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := full_d2vzw
+PRODUCT_NAME := xylon_d2vzw
 PRODUCT_DEVICE := d2vzw
 PRODUCT_BRAND := Verizon
 PRODUCT_MANUFACTURER := samsung
